@@ -21,9 +21,3 @@
 **Frameworks & Tools:** Metasploit, Nmap, Wireshark, TCPdump, Docker, DVWA, OWASP Juice Shop, WebGoat
 
 **OS & Environments:** Kali Linux, Ubuntu Server, Windows, UTM/QEMU virtualization (Apple Silicon)
-
-## 📊 GitHub Stats & Activity
-
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChowHusky21&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChowHusky21&layout=compact)
