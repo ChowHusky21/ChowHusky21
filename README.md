@@ -13,6 +13,7 @@
 
 - 🏠 [home-cybersecurity-lab](https://github.com/ChowHusky21/home-cybersecurity-lab) — self-built Kali/Ubuntu/Windows 11 penetration-testing lab (Docker: Juice Shop, DVWA, WebGoat)
 - 🎯 [quickstart-cybersecurity-career-sims](https://github.com/ChowHusky21/quickstart-cybersecurity-career-sims) — 3 guided bootcamp simulations (DMZ design, Metasploit ops, EternalBlue CTF)
+- 🔎 [dmarc-report-reader](https://github.com/ChowHusky21/dmarc-report-reader) — Python tool that turns DMARC aggregate reports into a plain-language summary and checks SPF, DKIM and DMARC records (standard library only)
 - 🧠 [agentic-ai-workflow](https://github.com/ChowHusky21/agentic-ai-workflow) — public ledger of how I supervise AI agents on my own cybersecurity projects (least privilege, approval gates, audit trail) — [live page](https://chowhusky21.github.io/agentic-ai-workflow/)
 - 📚 Additional lab write-ups (Linux administration, TCPdump/Wireshark network analysis, NIST-framework incident response, security audits): [dharristech Google Site](https://sites.google.com/view/dharristech)
 
