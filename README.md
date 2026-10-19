@@ -1,6 +1,6 @@
 # Hi, I'm Daniel Harris 👋
 
-**Entry-Level Cybersecurity Analyst** with a SOC and GRC focus, building hands-on penetration-testing and defensive skills through a self-directed home lab and structured bootcamp simulations. Currently deepening my network-security and incident-response foundation through the Google Cybersecurity Professional Certificate, with ISC2 Certified in Cybersecurity (CC) as my next target.
+**Entry-Level Cybersecurity Analyst (SOC & GRC)** with CompTIA Security+, building defensive skills and penetration-testing practice through a self-directed home lab and structured bootcamp simulations. Currently working through the Google Cybersecurity Certificate to deepen my network-security foundation, with ISC2 Certified in Cybersecurity (CC) as my next target.
 
 ## 🔐 Certifications & Achievements
 
